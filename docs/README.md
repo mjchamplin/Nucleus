@@ -1,6 +1,6 @@
 # Wireframe Library
 
-> An awesome project.
+> A wireframing library for Sketch. Follows the [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/ "Atomic Design by Brad Frost") methodology.
 
 ## Global Styles
 ### Colors
@@ -193,4 +193,4 @@
 <img src="images/Utilities/Notes/Note.png" title="Note Box" width="400px" style="vertical-align: top; margin-bottom: 16px"/>
 <img src="images/Utilities/Notes/NoteTitle.png" title="Note Box with Title" width="400px" style="vertical-align: top; margin-right: 16px"/>
 
->Useful for annotating wireframes. 
+>Useful for annotating wireframes.
