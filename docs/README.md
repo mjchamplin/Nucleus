@@ -29,14 +29,14 @@
 <img src="images/Atoms/Icons/Control/Kabob.png" title="Kabob" style="margin-right: 16px; vertical-align: top" width="3px"/>
 
 <p>General</p>
-<img src="images/Atoms/Icons/General/Alert.png" title="Alert" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Flag.png" title="Flag" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Grid.png" title="Grid" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Night.png" title="Night" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Person.png" title="Person" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Search.png" title="Search" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/Settings.png" title="Settings" style="margin-right: 16px" width="18px" />
-<img src="images/Atoms/Icons/General/ViewList.png" title="ViewList" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Alert.png" title="Alert" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Flag.png" title="Flag" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Grid.png" title="Grid" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Night.png" title="Night" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Person.png" title="Person" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Search.png" title="Search" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/Settings.png" title="Settings" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/ViewList.png" title="ViewList" width="18px" style="margin-right: 16px" />
 
 ### Buttons
 #### Primary Buttons
