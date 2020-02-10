@@ -1,6 +1,13 @@
-# Nucleus: Wireframe Library
+# Nucleus: A Wireframe Library
 
-> A wireframing library for Sketch. Follows the [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/ "Atomic Design by Brad Frost") methodology.
+A wireframing library for Sketch meant to bridge the gap between sketching and high fidelity, this library provides building-blocks to rapidly create wireframes and prototypes. It's been kept intentionally simple in execution&mdash;if it's not in this library, you should be able to create it with lines and boxes. Good wireframes aren't about the details, so the details have been left out.
+
+Created by <a href="https://twitter.com/mjchamplin">Michael Champlin</a>.
+
+Follows the [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/ "Atomic Design by Brad Frost") methodology.
+
+!> This library requires _Source Code Pro_, a free typeface available through [GitHub](https://github.com/adobe-fonts/source-code-pro), [Google Fonts](https://fonts.google.com/specimen/Source+Code+Pro) and [Adobe Fonts](https://fonts.adobe.com/fonts/source-code-pro).
+
 
 ## Global Styles
 ### Colors
@@ -10,6 +17,9 @@
 <img src="images/Atoms/Colors/MediumGray.png" title="Medium Gray" style="margin-right: 16px;"/>
 <img src="images/Atoms/Colors/DarkGray.png" title="Dark Gray" style="margin-right: 16px;"/>
 <img src="images/Atoms/Colors/OffBlack.png" title="Off Black" style="margin-right: 16px;"/>
+
+### Text Styles
+<img src="images/Examples/TextStyles.png" title="Text Styles" width="600px" />
 
 ## Atoms
 ### Icons
@@ -135,10 +145,10 @@
 <img src="images/Atoms/Informational/Highlight.png" title="Highlight" width="40px" style="margin-right: 16px" />
 
 >Use this block in _front_ of text, its blend mode is set to Multiply.\
-> ![logo](images/Examples/Highlight.png ':size=200')
+> ![](images/Examples/Highlight.png ':size=200')
 
 ### Navigation
-!>These atoms are included in this guide in the interest of being thourough. Skip to their corresponding Molecules for usage guidelines.
+!>These atoms are included here in the interest of thoroughness. See their corresponding Molecules for usage guidelines.
 #### Step Trackers
 <img src="images/Atoms/Navigation/StepTracker/Active.png" title="Step (active)" width="260px" style="margin-right: 16px"/><br />
 <img src="images/Atoms/Navigation/StepTracker/Current.png" title="Step (current)" width="260px" style="margin-right: 16px"/><br />
@@ -220,3 +230,5 @@
 <img src="images/Utilities/Notes/NoteTitle.png" title="Note Box with Title" width="400px" style="vertical-align: top; margin-right: 16px"/>
 
 >Useful for annotating wireframes.
+
+<small>Licensed under [Creative Commons Attribution Share Alike 4.0 International](https://github.com/mjchamplin/Nucleus/blob/master/LICENSE.md) license.</small>
