@@ -12,6 +12,32 @@
 <img src="images/Atoms/Colors/OffBlack.png" title="Off Black" style="margin-right: 16px;"/>
 
 ## Atoms
+### Icons
+<p>Control</p>
+<img src="images/Atoms/Icons/Control/CaratDown.png" title="Carat Down" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/CaratDownDisabled.png" title="Carat Down (Disabled)" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/CaratSide.png" title="Carat Side" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/CaratSideDisabled.png" title="Carat Side (Disabled)" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/CaratFilledCollapsed.png" title="Carat Filled (Collapsed)" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/CaratFilledExpanded.png" title="Carat Filled (Expanded)" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/Check.png" title="Check" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/Close.png" title="Close" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/StepperDown.png" title="Stepper Down" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/StepperLeft.png" title="Stepper Left" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/StepperRight.png" title="Stepper Right" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/StepperUp.png" title="Stepper Up" style="margin-right: 16px; vertical-align: top" width="18px"/>
+<img src="images/Atoms/Icons/Control/Kabob.png" title="Kabob" style="margin-right: 16px; vertical-align: top" width="3px"/>
+
+<p>General</p>
+<img src="images/Atoms/Icons/General/Alert.png" title="Alert" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Flag.png" title="Flag" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Grid.png" title="Grid" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Night.png" title="Night" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Person.png" title="Person" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Search.png" title="Search" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/Settings.png" title="Settings" style="margin-right: 16px" width="18px" />
+<img src="images/Atoms/Icons/General/ViewList.png" title="ViewList" style="margin-right: 16px" width="18px" />
+
 ### Buttons
 #### Primary Buttons
 <img src="images/Atoms/Buttons/PrimaryButton.png" title="Primary Button" width="142px" style="margin-right: 16px;"/>
