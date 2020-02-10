@@ -36,7 +36,7 @@
 <img src="images/Atoms/Icons/General/Person.png" title="Person" width="18px" style="margin-right: 16px" />
 <img src="images/Atoms/Icons/General/Search.png" title="Search" width="18px" style="margin-right: 16px" />
 <img src="images/Atoms/Icons/General/Settings.png" title="Settings" width="18px" style="margin-right: 16px" />
-<img src="images/Atoms/Icons/General/ViewList.png" title="ViewList" width="18px" style="margin-right: 16px" />
+<img src="images/Atoms/Icons/General/ViewList.png" title="View List" width="18px" style="margin-right: 16px" />
 
 ### Buttons
 #### Primary Buttons
