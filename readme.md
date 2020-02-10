@@ -1,5 +1,5 @@
 
-![Nucleus Logo](docs/images/nucleusLogo.png "Nucleus Logo")
+<img src="docs/images/nucleusLogo.png" title="Nucleus Logo" alt="Nucleus" style="max-width: 300px; margin: 0 auto"/>
 
 A wireframing library for Sketch by @mjchamplin.
 
