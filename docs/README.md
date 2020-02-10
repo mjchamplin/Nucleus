@@ -5,6 +5,10 @@ A wireframing library for Sketch meant to bridge the gap between sketching and h
 Created by <a href="https://twitter.com/mjchamplin">Michael Champlin</a>.
 
 Follows the [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/ "Atomic Design by Brad Frost") methodology.
+<div class="downloadBlock">
+  <button class="download" onclick="location.href='https://github.com/mjchamplin/Nucleus/blob/master/sketch/Nucleus%20Wireframing%20Library.sketch?raw=true'" type="button">Download</button>
+  <p>Sketch file, 763KB</p>
+</div>
 
 !> This library requires _Source Code Pro_, a free typeface available through [GitHub](https://github.com/adobe-fonts/source-code-pro), [Google Fonts](https://fonts.google.com/specimen/Source+Code+Pro) and [Adobe Fonts](https://fonts.adobe.com/fonts/source-code-pro).
 
