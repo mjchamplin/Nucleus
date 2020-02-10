@@ -1,5 +1,5 @@
 
-<img src="docs/images/nucleusLogo.png?s=400" title="Nucleus Logo" alt="Nucleus" />
+<img src="docs/images/nucleusLogo.png" title="Nucleus Logo" alt="Nucleus" width="400px" />
 
 A wireframing library for Sketch by @mjchamplin.
 
